@@ -3,6 +3,7 @@
 __A cloud metadata server written in Go. Use as [CLI](#cli-usage).__
 
 * Provision VMs using [cloud-init](https://cloudinit.readthedocs.io/en/latest/) images without a cloud provider.
+* Runs on Linux and macOS.
 
 ## Supported Metadata Service APIs
 
